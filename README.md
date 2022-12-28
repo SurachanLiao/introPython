@@ -1,16 +1,23 @@
 # introPython: Introduction to Python
 
-A crash course to Python with guilded-project and provided simple test cases.
+A crash course to Python with guilded-project and provided simple test cases, adapted from HMC CS5.
 
-# Contents
+## Contents
 
-## Installing Python with details explanation
-### Anaconda
-### Text editor: VS code
-## Function
-## Loop
-### While loop
-### For loop
-## List 
-## Dictionary
-## Objected-Oriented
+### 1: Get Started with Python
+
+### 2: Strings, Structures, and Slicing
+
+### 3: Functions and Recursion
+
+### 3.5: More Recursion
+
+### 4: High-Level Functions
+
+### 5: Circuits (skipped in favor of alterative resource)
+
+### 6: Loops
+
+### 7: 2D Data
+
+### 8: Objects, Classes, and Dictionaries
