@@ -14,10 +14,8 @@ A crash course to Python with guilded-project and provided simple test cases, ad
 
 ### 4: High-Level Functions
 
-### 5: Circuits (skipped in favor of alterative resource)
+### 5: Loops
 
-### 6: Loops
+### 6: 2D Data
 
-### 7: 2D Data
-
-### 8: Objects, Classes, and Dictionaries
+### 7: Objects, Classes, and Dictionaries
