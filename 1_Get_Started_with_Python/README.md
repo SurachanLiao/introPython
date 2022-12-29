@@ -1,4 +1,6 @@
-**See the video for detailed walkthrough.**
+**See the video for detailed walkthrough.** Contact me if help is needed.
+
+
 # Get started with Python
 
 Before we start coding python, we need text editor that provide good
