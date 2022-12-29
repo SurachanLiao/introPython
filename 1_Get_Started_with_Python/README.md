@@ -66,7 +66,7 @@ These two commands are nessesary for this lesson.
 - C:\Users\surachanliao\AppData\Local\Programs\Python\Python311\Scripts\ 
 should be the location that is added to the path(replace "surachanliao" with name of the computer).
 
-[Reference](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
+[Reference to HMC CS5 course](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
 
 
 
