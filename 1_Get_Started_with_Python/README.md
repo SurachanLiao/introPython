@@ -29,11 +29,36 @@ These two commands are nessesary for this lesson.
 ### For Windows
 - Search for a program called "Terminal"
 - In the command line type
-  **cd .\AppData\Local\Programs\Python\Python311\Scripts\**
-  **ipython**
-
-
-
+  '''
+  cd .\AppData\Local\Programs\Python\Python311\Scripts\
+  ipython
+  '''
+- Now, we have a working Python Integrated Development Environment(IDE).
+- Try simple commands.
+  '''
+  2+2
+  2+2*(3+6)
+  '''
 ## Running the first Python program: "Hello World!"
+- Open VSCode
+- On the top left, click File. Then, New Text File.
+- Type 
+  print("Hello World!")
+- Save As the file with the name "HelloWorld.py", without the quatations. Select the location to be at Desktop.
+- Reopen the "Terminal"
+- In the command line type
+  '''
+  cd .\AppData\Local\Programs\Python\Python311\Scripts\
+  ipython
+  cd
+  cd OneDrive/Desktop/
+  run HelloWorld.py
+  '''
+- Hello World! should appear on the screen.
+- We are successfully create and run our first program.
+  
+
+
+
 
 
