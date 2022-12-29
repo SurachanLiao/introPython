@@ -68,9 +68,9 @@ These two commands are nessesary for this lesson.
 should be the location that is added to the path(replace "surachanliao" with name of the computer).
 
 ## Try the first problem sets
-- Download the ls1pr1.py and ls1pr2.py
+- Download the ls1pr1.py
 - Open it in the VSCode and follow the instructions
-- The sample solutions are available at ls1pr1_sol.py and ls1pr2_sol.py
+- The sample solutions are available in ls1pr1_sol.py
 
 [Reference to HMC CS5 course](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
 
