@@ -1,3 +1,4 @@
+**See the video for detailed walkthrough.**
 # Get started with Python
 
 Before we start coding python, we need text editor that provide good
@@ -63,7 +64,6 @@ These two commands are nessesary for this lesson.
 - C:\Users\surachanliao\AppData\Local\Programs\Python\Python311\Scripts\ 
 should be the location that is added to the path(replace "surachanliao" with name of the computer).
 
-See the video for detailed walkthrough.
 [Reference](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
 
 
