@@ -67,9 +67,11 @@ These two commands are nessesary for this lesson.
 - C:\Users\surachanliao\AppData\Local\Programs\Python\Python311\Scripts\ 
 should be the location that is added to the path(replace "surachanliao" with name of the computer).
 
+## Try the first problem sets
+- Download the ls1pr1.py and lspr2.py
+- Open it in the VSCode and follow the instructions
+- The sample solutions are available at ls1pr1_sol.py and lspr2_sol.py
+
 [Reference to HMC CS5 course](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
-
-
-
 
 
