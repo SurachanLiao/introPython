@@ -1,23 +1,72 @@
-# introPython: Introduction to Python
+# Get started with Python
 
-A crash course to Python with guilded-project and provided simple test cases, adapted from HMC CS5.
+Before we start coding python, we need text editor that provide good
 
-## Contents
+## Installing text editor: VSCode
 
-### 1: Get Started with Python
+Other text editors also work well. VSCode is recommended for beginner since it is free and widely used. 
 
-### 2: Strings, Structures, and Slicing
+Follow the link to [Install page for Windows and Mac](https://code.visualstudio.com/download)
 
-### 3: Functions and Recursion
+## Installing Python 
 
-### 3.5: More Recursion
+The lasted version of Python is recommended. At the moment, 3.11 is the lastest.
 
-### 4: High-Level Functions
+Follow the link to [Download the lastest Python for Windows and Mac](https://www.python.org/downloads/)
 
-### 5: Circuits (skipped in favor of alterative resource)
+## Terminal and ipython
 
-### 6: Loops
+After Python is installed, we need start the Python up! We need Terminal and ipython to run our first program.
 
-### 7: 2D Data
+What is Terminal?
+The terminal is an interface that lets you access the command line. This is simply the browsing through computer without having an animated interface.
 
-### 8: Objects, Classes, and Dictionaries
+Common and useful comnands
+- cd : takes a directory name as an argument, and switches into that directory.
+- ls : lists all files and directories in the working directory
+These two commands are nessesary for this lesson.
+
+### For Windows
+- Search for a program called "Terminal"
+- In the command line type
+  '''
+  cd .\AppData\Local\Programs\Python\Python311\Scripts\
+  pip3 install IPython
+  ipython
+  '''
+- Now, we have a working Python Integrated Development Environment(IDE).
+- Try simple commands.
+  '''
+  2+2
+  2+2*(3+6)
+  '''
+## Running the first Python program: "Hello World!"
+- Open VSCode
+- On the top left, click File. Then, New Text File.
+- Type 
+  print("Hello World!")
+- Save As the file with the name "HelloWorld.py", without the quatations. Select the location to be at Desktop.
+- Reopen the "Terminal"
+- In the command line type
+  '''
+  cd .\AppData\Local\Programs\Python\Python311\Scripts\
+  ipython
+  cd
+  cd OneDrive/Desktop/
+  run HelloWorld.py
+  '''
+- Hello World! should appear on the screen.
+- We are successfully create and run our first program.
+
+## Add PATH to allow using ipython at any directory
+- [This link explains how to add PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+- C:\Users\surachanliao\AppData\Local\Programs\Python\Python311\Scripts\ 
+should be the location that is added to the path(replace "surachanliao" with name of the computer).
+
+See the video for detailed walkthrough.
+[Reference](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
+
+
+
+
+
