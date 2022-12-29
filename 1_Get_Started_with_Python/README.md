@@ -25,8 +25,9 @@ What is Terminal?
 The terminal is an interface that lets you access the command line. This is simply the browsing through computer without having an animated interface.
 
 Common and useful comnands
-- cd : takes a directory name as an argument, and switches into that directory.
-- ls : lists all files and directories in the working directory
+- cd  : (change directory) takes a directory name as an argument, and switches into that directory.
+- ls  : (list) lists all files and directories in the working directory
+- pwd : (print working directory) It shows the current location or directory.
 These two commands are nessesary for this lesson.
 
 ### For Windows
