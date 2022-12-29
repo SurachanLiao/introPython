@@ -1,3 +1,6 @@
+**See the video for detailed walkthrough.** Contact me if help is needed.
+
+
 # Get started with Python
 
 Before we start coding python, we need text editor that provide good
@@ -22,8 +25,9 @@ What is Terminal?
 The terminal is an interface that lets you access the command line. This is simply the browsing through computer without having an animated interface.
 
 Common and useful comnands
-- cd : takes a directory name as an argument, and switches into that directory.
-- ls : lists all files and directories in the working directory
+- cd  : (change directory) takes a directory name as an argument, and switches into that directory.
+- ls  : (list) lists all files and directories in the working directory
+- pwd : (print working directory) It shows the current location or directory.
 These two commands are nessesary for this lesson.
 
 ### For Windows
@@ -36,10 +40,10 @@ These two commands are nessesary for this lesson.
   '''
 - Now, we have a working Python Integrated Development Environment(IDE).
 - Try simple commands.
-  '''
+  ```
   2+2
   2+2*(3+6)
-  '''
+  ```
 ## Running the first Python program: "Hello World!"
 - Open VSCode
 - On the top left, click File. Then, New Text File.
@@ -48,13 +52,13 @@ These two commands are nessesary for this lesson.
 - Save As the file with the name "HelloWorld.py", without the quatations. Select the location to be at Desktop.
 - Reopen the "Terminal"
 - In the command line type
-  '''
+  ```
   cd .\AppData\Local\Programs\Python\Python311\Scripts\
   ipython
   cd
   cd OneDrive/Desktop/
   run HelloWorld.py
-  '''
+  ```
 - Hello World! should appear on the screen.
 - We are successfully create and run our first program.
 
@@ -63,10 +67,11 @@ These two commands are nessesary for this lesson.
 - C:\Users\surachanliao\AppData\Local\Programs\Python\Python311\Scripts\ 
 should be the location that is added to the path(replace "surachanliao" with name of the computer).
 
-See the video for detailed walkthrough.
-[Reference](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
+## Try the first problem sets
+- Download the ls1pr1.py and ls1pr2.py
+- Open it in the VSCode and follow the instructions
+- The sample solutions are available at ls1pr1_sol.py and ls1pr2_sol.py
 
-
-
+[Reference to HMC CS5 course](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
 
 
