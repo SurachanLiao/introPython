@@ -16,11 +16,23 @@ Follow the link to [Download the lastest Python for Windows and Mac](https://www
 
 ## Terminal and ipython
 
-After Python is installed, we need start the Python up.
+After Python is installed, we need start the Python up! We need Terminal and ipython to run our first program.
 
-### For Mac
+What is Terminal?
+The terminal is an interface that lets you access the command line. This is simply the browsing through computer without having an animated interface.
+
+Common and useful comnands
+- cd : takes a directory name as an argument, and switches into that directory.
+- ls : lists all files and directories in the working directory
+These two commands are nessesary for this lesson.
 
 ### For Windows
+- Search for a program called "Terminal"
+- In the command line type
+  **cd .\AppData\Local\Programs\Python\Python311\Scripts\**
+  **ipython**
+
+
 
 ## Running the first Python program: "Hello World!"
 
