@@ -2,4 +2,4 @@
 
 A crash course to Python with guilded-project and provided simple test cases, adapted from HMC CS5.
 
-(HMC CS5 course page)[https://www.cs.hmc.edu/twiki/bin/view/CS5]
+[HMC CS5 course page](https://www.cs.hmc.edu/twiki/bin/view/CS5)
