@@ -1,9 +1,7 @@
-**See the video for detailed walkthrough.** Contact me if help is needed.
+**See the video for detailed walkthrough.** Contact me if help is needed. Detialed walkthrough can be found at [Reference to HMC CS5 course](https://www.cs.hmc.edu/twiki/bin/view/CS5/Orientation)
 
 
 # 1 Get started with Python
-
-Before we start coding python, we need text editor that provide good
 
 ## Installing text editor: VSCode
 
